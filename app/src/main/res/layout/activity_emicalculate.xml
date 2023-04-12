@@ -197,15 +197,15 @@
 
                     <TextView
                         android:id="@+id/Tamount"
-                        android:hint="0"
-                        android:layout_width="match_parent"
+                        android:layout_width="206dp"
                         android:layout_height="match_parent"
-                        android:textSize="@dimen/_20ssp"
                         android:layout_marginLeft="@dimen/_10sdp"
-                        android:textStyle="bold"
-                        android:gravity="end"
                         android:layout_marginRight="@dimen/_10sdp"
-                        android:textColor="@color/black"/>
+                        android:gravity="end"
+                        android:hint="0"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/_20ssp"
+                        android:textStyle="bold" />
                 </LinearLayout>
             </LinearLayout>
         </androidx.cardview.widget.CardView>

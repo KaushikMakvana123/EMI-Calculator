@@ -57,6 +57,9 @@ public class EMIcalculateActivity extends AppCompatActivity {
                 EMIamount.setText(null);
                 EMIrate.setText(null);
                 EMItime.setText(null);
+                textIinterest.setText(null);
+
+                Tamount.setText(null);
 
             }
         });
